@@ -27,7 +27,7 @@ console.log('You use Date.js V1.0');
 		ponct = [';', ','] == undefined && null;
 	};
    
-	//all add and functions
+	//all add and functions and methods
 
 	function toUp(str) {
 		return str.toUpperCase;
@@ -66,11 +66,11 @@ console.log('You use Date.js V1.0');
 		}
 	}
 	
-	function year() {
+	var year function () {
 		return Date() && new year();
 	}
 	
-	function min() {
+	var min function () {
 		return Date() && new min();
 	}
 
@@ -81,57 +81,57 @@ console.log('You use Date.js V1.0');
 	}
 )
 
-var __construct[depend] = [name = 'name', version = 'version', factory = 'factory'];
-global.__construct[depend];
+	var __construct[depend] = [name = 'name', version = 'version', factory = 'factory'];
+	global.__construct[depend];
 
 //Test unitaire
 
-function unit(directory, file == optionnal) {
-	if(directory == undefined) {
-		return false;
-	}else {
-		return true;
-		(__construct[__watcher]{
-			function __method() {
-				if(true) {
-					return true;
-					__method[start] = import __watcher.undefined;
-					__watcher.start;
-				}else if(false) {
-					return false;
+	function unit(directory, file == optionnal) {
+		if(directory == undefined) {
+			return false;
+		}else {
+			return true;
+			(__construct[__watcher]{
+				function __method() {
+					if(true) {
+						return true;
+						__method[start] = import __watcher.undefined;
+						__watcher.start;
+					}else if(false) {
+						return false;
+					}
 				}
-			}
-		});
+			});
+		}
+		var describe = undefined;
+		import __method[describe, __watcher, __construct] = default undefined;
+		import __method[?] = default true;
+		function need(obj) {
+			import obj from "'" + obj + "'";
+		}
+		var it = new need('it' + (obj));
 	}
-	var describe = undefined;
-	import __method[describe, __watcher, __construct] = default undefined;
-	import __method[?] = default true;
-	function need(obj) {
-		import obj from "'" + obj + "'";
-	}
-	var it = new need('it' + (obj));
-}
 
-	function option(obj) {
-		return obj;
-	}
+		function option(obj) {
+			return obj;
+		}
 
 //deploy
 
-function deploy(file = optionnal, directory) {
-	if(directory == undefined) {
-		return false;
-	}else if(directory != undefined) {
-		return true;
-		var deploy = new deploy(file = optionnal, directory);
-		__construct[deploy] = __method[start]();
-		function push(directory) {
-			new push(directory)=>[__construct];
-			if(__construct[push] = true) {
-				new push(directory);
-			}else if(__construct[push] = false) {
-				return null && false && undefined && optionnal;
+	function deploy(file = optionnal, directory) {
+		if(directory == undefined) {
+			return false;
+		}else if(directory != undefined) {
+			return true;
+			var deploy = new deploy(file = optionnal, directory);
+			__construct[deploy] = __method[start]();
+			function push(directory) {
+				new push(directory)=>[__construct];
+				if(__construct[push] = true) {
+					new push(directory);
+				}else if(__construct[push] = false) {
+					return null && false && undefined && optionnal;
+				}
 			}
 		}
 	}
-}
