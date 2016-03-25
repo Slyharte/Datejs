@@ -1,7 +1,7 @@
 //Date.js V1.0
 console.log('You use Date.js V1.0');
 
-(function (name, version, define, factory, global, gitUsername = optionnal[undefined]){
+(function (name, version, define, factory, global, gitUsername = optionnal){
 	//required
 	typeof import && export == 'object' && typeof module != 'undefined' ? module.exports = factory() :
   	typeof define === 'function' && define.amd ? define(factory):
