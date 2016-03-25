@@ -1,1 +1,1 @@
-#Datejs est i=un framework javascript qui permet de gerer le temps et plein d'autre choses
+## Datejs est un framework javascript qui permet de gerer le temps et plein d'autre choses.
